@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Rafi <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="48" />
+### Hi there 👋 I'm Muhammad Raffy Hidayatulloh <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="48" />
 
 🌍 Based in Jakarta, Indonesia  
 💻 Passionate about building scalable backend systems and modern web & mobile apps  
@@ -32,8 +32,7 @@
 ### 🌱 Interests  
 - Backend Engineering & API Development  
 - Modern Web Technologies & Frameworks  
-- Machine Learning & Data Science  
-- Android App Development & Kotlin  
+- Android App Development 
 
 ---
 
