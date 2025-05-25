@@ -33,7 +33,7 @@
 
 ### 🌱 Interests  
 - 🧩 Fullstack Web Development
-- - 🌐 Modern Web Technologies & Frameworks  
+- 🌐 Modern Web Technologies & Frameworks  
 - 🛠️ Backend Engineering & API Development  
 
 ---
