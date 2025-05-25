@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Muhammad Raffy Hidayatulloh <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="48" />
 
 🌍 Based in Jakarta, Indonesia  
-💻 Passionate about building scalable backend systems and modern web & mobile apps  
+💻 Passionate about building reliable backend systems and modern fullstack web applications
 🎓 Continuously learning and growing in software development  
 
 ---
@@ -32,9 +32,9 @@
 ---
 
 ### 🌱 Interests  
-- Backend Engineering & API Development  
-- Modern Web Technologies & Frameworks  
-- Android App Development 
+- 🧩 Fullstack Web Development
+- - 🌐 Modern Web Technologies & Frameworks  
+- 🛠️ Backend Engineering & API Development  
 
 ---
 
